@@ -22,4 +22,6 @@ Feel free to check out my repositories or reach out if you're working on somethi
 
 ---
 
+P.S. If you're wondering why my username is *pierluvaAmaro*... blame the autocomplete and my caffeine-deprived fingers. It was supposed to be *Pierluca*, but now it's a bug I proudly call a feature.
+
 Thanks for stopping by!
