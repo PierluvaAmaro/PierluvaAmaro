@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Pierluca
 
-<!--
-**PierluvaAmaro/PierluvaAmaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Bari Aldo Moro, passionate about exploring the intersection between technology and innovation.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently studying Computer Science in Bari, Italy
+- Fascinated by the world of **Cybersecurity**
+- Enthusiast of **Automation** and **Artificial Intelligence**
+- Constantly learning and experimenting with new tools, frameworks, and ideas
+
+What I'm working on
+
+I'm diving deeper into:
+- Ethical hacking and system security
+- Building smart, automated solutions
+- Exploring machine learning models and their real-world applications
+
+## Let's connect
+
+Feel free to check out my repositories or reach out if you're working on something exciting in tech — I'm always open to collaboration and learning from others.
+
+---
+
+Thanks for stopping by!
