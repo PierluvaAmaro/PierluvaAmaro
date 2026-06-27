@@ -5,14 +5,12 @@ I'm a Computer Science student at the University of Bari Aldo Moro, passionate a
 ## About Me
 
 - Currently studying Computer Science in Bari, Italy
-- Fascinated by the world of **Cybersecurity**
 - Enthusiast of **Automation** and **Artificial Intelligence**
 - Constantly learning and experimenting with new tools, frameworks, and ideas
 
 What I'm working on
 
 I'm diving deeper into:
-- Ethical hacking and system security
 - Building smart, automated solutions
 - Exploring machine learning models and their real-world applications
 
